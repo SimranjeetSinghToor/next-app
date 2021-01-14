@@ -13,7 +13,7 @@ export default function Blog() {
         </li>
         <li>
           <Link href="/post/2">
-            <a>Post 2</a>
+            <a>Post 2 </a>
           </Link>
         </li>
       </ul>
